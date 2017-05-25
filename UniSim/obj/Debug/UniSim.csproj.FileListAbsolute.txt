@@ -1,0 +1,8 @@
+E:\IAN\Documents\Visual Studio 2017\Projects\UniSim\UniSim\bin\Debug\UniSim.exe.config
+E:\IAN\Documents\Visual Studio 2017\Projects\UniSim\UniSim\bin\Debug\UniSim.exe
+E:\IAN\Documents\Visual Studio 2017\Projects\UniSim\UniSim\bin\Debug\UniSim.pdb
+E:\IAN\Documents\Visual Studio 2017\Projects\UniSim\UniSim\obj\Debug\UniSim.exe
+E:\IAN\Documents\Visual Studio 2017\Projects\UniSim\UniSim\obj\Debug\UniSim.pdb
+E:\IAN\Documents\Visual Studio 2017\Projects\UniSim\UniSim\bin\Debug\Domain.dll
+E:\IAN\Documents\Visual Studio 2017\Projects\UniSim\UniSim\bin\Debug\Domain.pdb
+E:\IAN\Documents\Visual Studio 2017\Projects\UniSim\UniSim\obj\Debug\UniSim.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+E:\IAN\Documents\Visual Studio 2017\Projects\UniSim\Domain\bin\Debug\Domain.dll
+E:\IAN\Documents\Visual Studio 2017\Projects\UniSim\Domain\bin\Debug\Domain.pdb
+E:\IAN\Documents\Visual Studio 2017\Projects\UniSim\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+E:\IAN\Documents\Visual Studio 2017\Projects\UniSim\Domain\obj\Debug\Domain.dll
+E:\IAN\Documents\Visual Studio 2017\Projects\UniSim\Domain\obj\Debug\Domain.pdb
