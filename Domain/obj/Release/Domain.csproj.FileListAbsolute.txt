@@ -1,0 +1,4 @@
+C:\Users\IAN\Source\Repos\UniSim\Domain\bin\Release\Domain.dll
+C:\Users\IAN\Source\Repos\UniSim\Domain\bin\Release\Domain.pdb
+C:\Users\IAN\Source\Repos\UniSim\Domain\obj\Release\Domain.dll
+C:\Users\IAN\Source\Repos\UniSim\Domain\obj\Release\Domain.pdb

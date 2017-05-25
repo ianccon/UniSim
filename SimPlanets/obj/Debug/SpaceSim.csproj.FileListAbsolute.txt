@@ -1,0 +1,7 @@
+C:\Users\IAN\Source\Repos\UniSim\SimPlanets\obj\Debug\SpaceSim.csprojResolveAssemblyReference.cache
+C:\Users\IAN\Source\Repos\UniSim\SimPlanets\bin\Debug\SpaceSim.dll
+C:\Users\IAN\Source\Repos\UniSim\SimPlanets\bin\Debug\SpaceSim.pdb
+C:\Users\IAN\Source\Repos\UniSim\SimPlanets\bin\Debug\Domain.dll
+C:\Users\IAN\Source\Repos\UniSim\SimPlanets\bin\Debug\Domain.pdb
+C:\Users\IAN\Source\Repos\UniSim\SimPlanets\obj\Debug\SpaceSim.dll
+C:\Users\IAN\Source\Repos\UniSim\SimPlanets\obj\Debug\SpaceSim.pdb

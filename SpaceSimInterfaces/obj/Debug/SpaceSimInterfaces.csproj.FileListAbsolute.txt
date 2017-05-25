@@ -1,0 +1,4 @@
+C:\Users\IAN\Source\Repos\UniSim\SpaceSimInterfaces\bin\Debug\SpaceSimInterfaces.dll
+C:\Users\IAN\Source\Repos\UniSim\SpaceSimInterfaces\bin\Debug\SpaceSimInterfaces.pdb
+C:\Users\IAN\Source\Repos\UniSim\SpaceSimInterfaces\obj\Debug\SpaceSimInterfaces.dll
+C:\Users\IAN\Source\Repos\UniSim\SpaceSimInterfaces\obj\Debug\SpaceSimInterfaces.pdb

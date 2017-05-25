@@ -1,0 +1,5 @@
+C:\Users\IAN\Source\Repos\UniSim\Simulation\bin\Debug\Simulation.dll
+C:\Users\IAN\Source\Repos\UniSim\Simulation\bin\Debug\Simulation.pdb
+C:\Users\IAN\Source\Repos\UniSim\Simulation\obj\Debug\Simulation.dll
+C:\Users\IAN\Source\Repos\UniSim\Simulation\obj\Debug\Simulation.pdb
+C:\Users\IAN\Source\Repos\UniSim\Simulation\obj\Debug\Simulation.csprojResolveAssemblyReference.cache

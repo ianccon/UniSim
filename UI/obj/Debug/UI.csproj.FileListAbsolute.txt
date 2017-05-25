@@ -1,0 +1,13 @@
+C:\Users\IAN\Source\Repos\UniSim\UI\bin\Debug\UI.exe.config
+C:\Users\IAN\Source\Repos\UniSim\UI\bin\Debug\UI.exe
+C:\Users\IAN\Source\Repos\UniSim\UI\bin\Debug\UI.pdb
+C:\Users\IAN\Source\Repos\UniSim\UI\obj\Debug\MainWindow.g.cs
+C:\Users\IAN\Source\Repos\UniSim\UI\obj\Debug\App.g.cs
+C:\Users\IAN\Source\Repos\UniSim\UI\obj\Debug\UI_MarkupCompile.cache
+C:\Users\IAN\Source\Repos\UniSim\UI\obj\Debug\UI_MarkupCompile.lref
+C:\Users\IAN\Source\Repos\UniSim\UI\obj\Debug\MainWindow.baml
+C:\Users\IAN\Source\Repos\UniSim\UI\obj\Debug\UI.g.resources
+C:\Users\IAN\Source\Repos\UniSim\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\IAN\Source\Repos\UniSim\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\IAN\Source\Repos\UniSim\UI\obj\Debug\UI.exe
+C:\Users\IAN\Source\Repos\UniSim\UI\obj\Debug\UI.pdb

@@ -1,0 +1,7 @@
+C:\Users\IAN\Source\Repos\UniSim\SimPlanets\bin\Release\SpaceSim.dll
+C:\Users\IAN\Source\Repos\UniSim\SimPlanets\bin\Release\SpaceSim.pdb
+C:\Users\IAN\Source\Repos\UniSim\SimPlanets\bin\Release\Domain.dll
+C:\Users\IAN\Source\Repos\UniSim\SimPlanets\bin\Release\Domain.pdb
+C:\Users\IAN\Source\Repos\UniSim\SimPlanets\obj\Release\SpaceSim.csprojResolveAssemblyReference.cache
+C:\Users\IAN\Source\Repos\UniSim\SimPlanets\obj\Release\SpaceSim.dll
+C:\Users\IAN\Source\Repos\UniSim\SimPlanets\obj\Release\SpaceSim.pdb

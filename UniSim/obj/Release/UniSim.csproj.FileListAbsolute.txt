@@ -1,0 +1,8 @@
+C:\Users\IAN\Source\Repos\UniSim\UniSim\bin\Release\UniSim.exe.config
+C:\Users\IAN\Source\Repos\UniSim\UniSim\bin\Release\UniSim.exe
+C:\Users\IAN\Source\Repos\UniSim\UniSim\bin\Release\UniSim.pdb
+C:\Users\IAN\Source\Repos\UniSim\UniSim\bin\Release\Domain.dll
+C:\Users\IAN\Source\Repos\UniSim\UniSim\bin\Release\Domain.pdb
+C:\Users\IAN\Source\Repos\UniSim\UniSim\obj\Release\UniSim.csprojResolveAssemblyReference.cache
+C:\Users\IAN\Source\Repos\UniSim\UniSim\obj\Release\UniSim.exe
+C:\Users\IAN\Source\Repos\UniSim\UniSim\obj\Release\UniSim.pdb

@@ -6,3 +6,11 @@ E:\IAN\Documents\Visual Studio 2017\Projects\UniSim\UniSim\obj\Debug\UniSim.pdb
 E:\IAN\Documents\Visual Studio 2017\Projects\UniSim\UniSim\bin\Debug\Domain.dll
 E:\IAN\Documents\Visual Studio 2017\Projects\UniSim\UniSim\bin\Debug\Domain.pdb
 E:\IAN\Documents\Visual Studio 2017\Projects\UniSim\UniSim\obj\Debug\UniSim.csprojResolveAssemblyReference.cache
+C:\Users\IAN\Source\Repos\UniSim\UniSim\bin\Debug\UniSim.exe.config
+C:\Users\IAN\Source\Repos\UniSim\UniSim\bin\Debug\UniSim.exe
+C:\Users\IAN\Source\Repos\UniSim\UniSim\bin\Debug\UniSim.pdb
+C:\Users\IAN\Source\Repos\UniSim\UniSim\bin\Debug\Domain.dll
+C:\Users\IAN\Source\Repos\UniSim\UniSim\bin\Debug\Domain.pdb
+C:\Users\IAN\Source\Repos\UniSim\UniSim\obj\Debug\UniSim.csprojResolveAssemblyReference.cache
+C:\Users\IAN\Source\Repos\UniSim\UniSim\obj\Debug\UniSim.exe
+C:\Users\IAN\Source\Repos\UniSim\UniSim\obj\Debug\UniSim.pdb

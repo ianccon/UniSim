@@ -1,0 +1,9 @@
+C:\Users\IAN\Source\Repos\UniSim\CivSim\obj\Debug\CivSim.csprojResolveAssemblyReference.cache
+C:\Users\IAN\Source\Repos\UniSim\CivSim\bin\Debug\CivSim.dll
+C:\Users\IAN\Source\Repos\UniSim\CivSim\bin\Debug\CivSim.pdb
+C:\Users\IAN\Source\Repos\UniSim\CivSim\bin\Debug\CivSimInterfaces.dll
+C:\Users\IAN\Source\Repos\UniSim\CivSim\bin\Debug\Domain.dll
+C:\Users\IAN\Source\Repos\UniSim\CivSim\bin\Debug\CivSimInterfaces.pdb
+C:\Users\IAN\Source\Repos\UniSim\CivSim\bin\Debug\Domain.pdb
+C:\Users\IAN\Source\Repos\UniSim\CivSim\obj\Debug\CivSim.dll
+C:\Users\IAN\Source\Repos\UniSim\CivSim\obj\Debug\CivSim.pdb

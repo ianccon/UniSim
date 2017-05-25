@@ -1,0 +1,4 @@
+C:\Users\IAN\Source\Repos\UniSim\CivSimInterfaces\bin\Debug\CivSimInterfaces.dll
+C:\Users\IAN\Source\Repos\UniSim\CivSimInterfaces\bin\Debug\CivSimInterfaces.pdb
+C:\Users\IAN\Source\Repos\UniSim\CivSimInterfaces\obj\Debug\CivSimInterfaces.dll
+C:\Users\IAN\Source\Repos\UniSim\CivSimInterfaces\obj\Debug\CivSimInterfaces.pdb

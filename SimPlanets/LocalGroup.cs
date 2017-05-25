@@ -19,7 +19,7 @@ namespace SpaceSim
             {
                 for (int j = 0; j < Settings.LocalGroupY; j++)
                 {
-                    localMap[i,j] = new SolarSystem(GenerateBodies(), );
+                    //localMap[i,j] = new SolarSystem(GenerateBodies(), );
                 }
             }
         }

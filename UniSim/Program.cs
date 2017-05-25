@@ -13,7 +13,7 @@ namespace UniSim
         static void Main(string[] args)
         {
             NameMaker nm = new NameMaker();
-            Console.WriteLine(nm.GenerateName(NameType.MINERALS));
+            Console.WriteLine(nm.GenerateName(NaturalProductType.INTOX));
             Console.ReadKey();
         }
 
